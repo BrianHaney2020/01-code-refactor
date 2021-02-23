@@ -17,11 +17,11 @@ I tried to document the changes I made as much as possible.
 The following is a screenshot of my final index.html:
 !["screenshot of homework"](assets/images/screenshot-of-homework-01.jpeg)
 
-The following is a link to index.html document:
-["link to index.html"](index.html)
+This is a 
+["link to html code"](index.html)
 
-The following is a link to the published page:
-["Link to Deployed Page"](https://brianhaney2020.github.io/01-code-refactor/)
+This is a 
+["link to deployed page"](https://brianhaney2020.github.io/01-code-refactor/)
 
 
 
