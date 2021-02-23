@@ -18,10 +18,10 @@ The following is a screenshot of my final index.html:
 !["screenshot of homework"](assets/images/screenshot-of-homework-01.jpeg)
 
 This is a 
-["link to html code"](index.html)
+[link to html code](index.html)
 
 This is a 
-["link to deployed page"](https://brianhaney2020.github.io/01-code-refactor/)
+[link to deployed page](https://brianhaney2020.github.io/01-code-refactor/)
 
 
 
