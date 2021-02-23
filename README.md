@@ -21,7 +21,7 @@ The following is a link to index.html document
 !["link to index.html"](index.html)
 
 The following is a link to the published page
-![](https://brianhaney2020.github.io/01-code-refactor/)
+["Link to Deployed Page"](https://brianhaney2020.github.io/01-code-refactor/)
 
 
 
